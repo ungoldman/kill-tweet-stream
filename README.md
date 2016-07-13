@@ -4,6 +4,10 @@
 
 ![screenshot](screenshot.png)
 
+## Why?
+
+Because [Kill All Feeds](https://blog.dcpos.ch/no-feeds).
+
 ## Install
 
 **Option 1:**
