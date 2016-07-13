@@ -6,6 +6,12 @@
 
 ## Install
 
+**Option 1:**
+
+~~Install **[Kill Tweet Stream](https://chrome.google.com/webstore/detail/kill-tweet-stream/dmbjkljffdbmcfbigilmnadinlnpkmkk)** via the Chrome Web Store.~~
+
+**Option 2:**
+
 1. Download a `zip` from the [releases](https://github.com/ungoldman/kill-tweet-stream/releases/) section and unzip it on your local hard drive.
 2. Open `chrome://extensions/`.
 3. Make sure `Developer mode` is enabled.
