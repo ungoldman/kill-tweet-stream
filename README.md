@@ -8,7 +8,7 @@
 
 **Option 1:**
 
-~~Install **[Kill Tweet Stream](https://chrome.google.com/webstore/detail/kill-tweet-stream/dmbjkljffdbmcfbigilmnadinlnpkmkk)** via the Chrome Web Store.~~
+Install **[Kill Tweet Stream](https://chrome.google.com/webstore/detail/kill-tweet-stream/dmbjkljffdbmcfbigilmnadinlnpkmkk)** via the Chrome Web Store.
 
 **Option 2:**
 
