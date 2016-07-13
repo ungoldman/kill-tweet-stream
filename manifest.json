@@ -3,7 +3,7 @@
   "name": "Kill Tweet Stream",
   "version": "1.0.0",
   "description": "Save time by hiding the tweet stream on Twitter.",
-  "homepage_url": "http://github.com/ngoldman/kill-twitter-feed",
+  "homepage_url": "http://github.com/ungoldman/kill-tweet-stream",
   "content_scripts": [
     {
       "matches": [
