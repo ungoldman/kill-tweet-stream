@@ -10,7 +10,7 @@ This extension solves part of the problem by simply hiding the tweet stream. You
 
 Inspired by:
 
-- [Kill All Feeds](https://blog.dcpos.ch/no-feeds) by [dcposch](https://github.com/dcposch)
+- [The Distraction Industrial Complex](https://blog.dcpos.ch/the-distraction-industrial-complex) by [dcposch](https://github.com/dcposch)
 - [Kill News Feed](https://chrome.google.com/webstore/detail/kill-news-feed/hjobfcedfgohjkaieocljfcppjbkglfd) (a chrome extension that hides the facebook news feed)
 
 ## Install
