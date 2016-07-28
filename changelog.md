@@ -1,4 +1,4 @@
-# module-init change log
+# kill-tweet-stream change log
 
 All notable changes to this project will be documented in this file.
 
